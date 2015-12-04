@@ -1,0 +1,8 @@
+.mail-icon {
+  height: $icon-size;
+  stroke: $action-color;
+  stroke-miterlimit: 10;
+  stroke-width: 3;
+  transition: $base-duration $base-timing;
+  width: $icon-size;
+}

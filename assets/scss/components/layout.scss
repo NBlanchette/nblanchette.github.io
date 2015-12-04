@@ -2,7 +2,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: #2a64ff;
+  background-color: $offwhite;
 }
 
 main {
@@ -14,4 +14,10 @@ main {
 
 .center {
   max-width: 50%;
+}
+
+.primary-content {
+  background: $white;
+  border-radius: $base-border-radius;
+  padding: $base-spacing;
 }
